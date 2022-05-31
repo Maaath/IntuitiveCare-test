@@ -8,7 +8,7 @@
 <br>
 
 <div align = "center">
-  <img hspace="50" width="1280" height="450" src="https://user-images.githubusercontent.com/38335297/164803490-7476c4de-e879-49f1-b8c0-c056adb2d48a.PNG">
+  <img hspace="50" width="1480" height="550" src="https://user-images.githubusercontent.com/38335297/171268235-48b68490-5a8b-41d4-9ed8-e9d2122754ca.png">
 </div>
 
 <br>
@@ -27,7 +27,7 @@
 <li>Data processing</li>
 <li>Data visualization</li>
 <li>Data filtering</li>
-<li>Deploy/li>
+<li>Deploy available <a href = "https://intuitive-care-test.herokuapp.com/" target="_blank">here</a></li>
 
 <h2>:wrench: Credits</h2>
 <table>
