@@ -25,7 +25,7 @@
 
 <h2>:dart: Results</h2>
 <li>Data processing</li>
-<li>Data visualization</li>
+<li>Data visualization (DataTable)</li>
 <li>Data filtering</li>
 <li>Deploy available <a href = "https://intuitive-care-test.herokuapp.com/" target="_blank">here</a></li>
 
